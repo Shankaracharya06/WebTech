@@ -190,3 +190,57 @@ button:hover{
     color: blue;
     cursor: pointer;
 }
+footer{
+            background-color: rgba(0, 0, 0, 0.849);
+            color: white;
+            height: 400px;
+            font-family: satisfy;
+            font-size: 21px;
+        }
+        .area{
+            padding-top: 70px;
+            margin-left: 280px;
+            /* background-color: brown; */
+            justify-content: space-between;
+            width: 60%;
+            height: 300px;
+            display: flex;
+        }
+        .contact{
+            width: 270px;
+            height: 150px;
+            /* background-color: brown; */
+        }
+        .mail{
+            width: 250px;
+            height: 150px;
+            /* background-color: brown; */
+        }
+        .image img{
+            width: 250px;
+        }
+        .last{
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            height: 50px;
+            font-size: 21px;
+            background-color: black;
+            color: grey;
+        }
+        .links{
+            
+            width: 150px;
+            display: flex;
+            justify-content: space-around;
+            margin-left: 400px;
+            
+        }
+        .links a{
+            text-decoration: none;
+            font-size: 28px;
+            color: yellow;
+        }
+        .links a:hover{
+            color: rgba(238, 130, 238, 0.49);
+        }
